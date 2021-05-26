@@ -11,7 +11,7 @@
 %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Answer</title>
 </head>
 <body>
 <p>Answer to your query: </p>

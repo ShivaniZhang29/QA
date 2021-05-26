@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ac72b2d-01ac-4232-9799-549c52e40029" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Web/Web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/src/main/java/com/example/Web/WolframAlpha2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Web/src/main/java/com/example/Web/WolframAlpha2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/Answer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/classes/com/example/Web/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/classes/com/example/Web/WolframAlpha2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/lib/WolframAlpha-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/Web-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/classes/com/example/Web/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/target/classes/com/example/Web/WolframAlpha2.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t4gPb7dFBSULTqwSHRp22TwQdQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ac72b2d-01ac-4232-9799-549c52e40029" name="Default Changelist" comment="" />
+      <created>1622033752674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622033752674</updated>
+      <workItem from="1622033754837" duration="741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="156" key="NewModule_or_Project.wizard" timestamp="1622033883676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="335" y="156" key="NewModule_or_Project.wizard/0.0.1440.900/-573.-1440.2560.1440@0.0.1440.900" timestamp="1622033883676" />
+  </component>
+</project>

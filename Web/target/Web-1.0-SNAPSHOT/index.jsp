@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Question</title>
 </head>
 <body>
 <form action="Answer.jsp" method="get">
